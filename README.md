@@ -46,6 +46,15 @@ Submissions will be evaluated based on:
 3. **Stability**: No performance degradation.
 4. **Compatibility**: Proper functionality across a portrait and landscape mode.
 
+## Submission Guidelines
+
+Make a private gist containing a `main.dart` file and share the `id` of the gist to [dev@busha.co](dev@busha.co).
+
+> [!IMPORTANT]
+> For example, a gist with url: `https://gist.github.com/username/6bcc57b1c6b919e68905618787b66c36`, the id would be `6bcc57b1c6b919e68905618787b66c36`.
+>
+> You can test this is runnable via Dartpad as this [https://dartpad.dev/6bcc57b1c6b919e68905618787b66c36](https://dartpad.dev/6bcc57b1c6b919e68905618787b66c36)
+
 ## Conclusion
 
 This task is an opportunity for senior developers to demonstrate their UI development skills and contribute to our growth.
