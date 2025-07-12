@@ -11,10 +11,19 @@ A demo video showcasing the UI design and functionality is available at:
 
 [Demo Video](https://drive.google.com/file/d/18dDxvno8Tm6Nk1zLyYgZIDJIYvGuVrU4/view?usp=share_link)
 
-<video controls autoplay loop preload="auto">
-  <source src="https://drive.google.com/uc?export=download&id=18dDxvno8Tm6Nk1zLyYgZIDJIYvGuVrU4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Task Description
+
+> [!TIP]
+> There is a bit more details in the video than in this description, so please watch it carefully.
+> You will be evaluated on your ability to pay attention to details.
+
+- Implement the drawer avatar & App bar interaction as shown in the demo video.
+- The avatar should transition between the App bar and the drawer in a hero-like manner.
+- The avatar should be responsive and maintain its aspect ratio during the transition.
+- The avatar should be centered in the drawer when it is open.
+- The drawer can be opened by tapping the avatar in the App bar and closed by tapping the close button in the drawer.
+- The drawer can also be opened by swiping from the left edge of the screen.
+- The drawer should also respect the position of the avatar during the transition when it is scrolled out of view.
 
 ## Key Details
 
@@ -23,6 +32,7 @@ A demo video showcasing the UI design and functionality is available at:
 
 ## Task Requirements
 
+- There is an included sample project that you should use as a base (ignore everything but the content).
 - Use only Flutter's built-in widgets
 - Ensure it is stable, responsive, and performant.
 - Smooth transitions and animations as per the specifications.
