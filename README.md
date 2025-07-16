@@ -48,7 +48,7 @@ Submissions will be evaluated based on:
 
 ## Submission Guidelines
 
-Make a private gist containing a `main.dart` file and share the `id` of the gist to [dev@busha.co](dev@busha.co).
+Make a private gist containing a `main.dart` file and share the `id` of the gist to [mobile-dev@busha.co](mobile-dev@busha.co).
 
 > [!IMPORTANT]
 > For example, a gist with url: `https://gist.github.com/username/6bcc57b1c6b919e68905618787b66c36`, the id would be `6bcc57b1c6b919e68905618787b66c36`.
