@@ -22,7 +22,8 @@ A demo video showcasing the UI design and functionality is available at:
 - The avatar should be responsive and maintain its aspect ratio during the transition.
 - The avatar should be centered in the drawer when it is open.
 - The drawer can be opened by tapping the avatar in the App bar and closed by tapping the close button in the drawer.
-- The drawer can also be opened by swiping from the left edge of the screen.
+- The drawer can also be opened by dragging from the left edge of the screen and stay responsive to the drag gesture.
+- The drawer can also de dismissed by dragging towards the left and again stay responsive to the drag gesture.
 - The drawer should also respect the position of the avatar during the transition when it is scrolled out of view.
 
 ## Key Details
@@ -54,8 +55,13 @@ Make a private gist containing a `main.dart` file and share the `id` of the gist
 > For example, a gist with url: `https://gist.github.com/username/6bcc57b1c6b919e68905618787b66c36`, the id would be `6bcc57b1c6b919e68905618787b66c36`.
 >
 > You can test this is runnable via Dartpad as this [https://dartpad.dev/6bcc57b1c6b919e68905618787b66c36](https://dartpad.dev/6bcc57b1c6b919e68905618787b66c36)
+>
+> In order words, your submission should be runnable via dartpad.dev.
 
 ## Conclusion
 
 This task is an opportunity for senior developers to demonstrate their UI development skills and contribute to our growth.
 Ensure your submission meets all requirements and adheres to the provided specifications for the best chance of success.
+
+> [!IMPORTANT]
+> In the case you stumble unto this task, before attempting (unless for recreational purposes), ensure that the role is still open to applications and that you have been invited to continue. See https://busha.breezy.hr/p/3efc7a33ac7f01-senior-flutter-mobile-engineer
