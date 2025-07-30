@@ -3,7 +3,7 @@
 ## Overview
 
 This task focuses exclusively on UI development and aims to evaluate technical skills, attention to detail, and
-adherence to design specifications.
+adherence to design specifications and requirements.
 
 ## Demo Video
 
@@ -18,6 +18,7 @@ A demo video showcasing the UI design and functionality is available at:
 > You will be evaluated on your ability to pay attention to details.
 
 - Implement the drawer avatar & App bar interaction as shown in the demo video.
+- Consider as well that the avatar in the drawer & the App bar may not be identical even though they look the same.
 - The avatar should transition between the App bar and the drawer in a hero-like manner.
 - The avatar should be responsive and maintain its aspect ratio during the transition.
 - The avatar should be centered in the drawer when it is open.
@@ -40,7 +41,7 @@ A demo video showcasing the UI design and functionality is available at:
 
 ## Evaluation Criteria
 
-Submissions will be evaluated based on:
+Submissions will be evaluated **ONCE** based on the following:
 
 1. **Design Accuracy**: Precise adherence to the provided UI specifications, including transitions and animations.
 2. **Code Quality**: Clean, maintainable, and efficient code following Dart and Flutter best practices.
